@@ -1,0 +1,10 @@
+C:\projetos UC\relogio_digital\relogio_digital\bin\Debug\relogio_digital.exe.config
+C:\projetos UC\relogio_digital\relogio_digital\bin\Debug\relogio_digital.exe
+C:\projetos UC\relogio_digital\relogio_digital\bin\Debug\relogio_digital.pdb
+C:\projetos UC\relogio_digital\relogio_digital\obj\Debug\relogio_digital.csproj.AssemblyReference.cache
+C:\projetos UC\relogio_digital\relogio_digital\obj\Debug\relogio_digital.Form1.resources
+C:\projetos UC\relogio_digital\relogio_digital\obj\Debug\relogio_digital.Properties.Resources.resources
+C:\projetos UC\relogio_digital\relogio_digital\obj\Debug\relogio_digital.csproj.GenerateResource.cache
+C:\projetos UC\relogio_digital\relogio_digital\obj\Debug\relogio_digital.csproj.CoreCompileInputs.cache
+C:\projetos UC\relogio_digital\relogio_digital\obj\Debug\relogio_digital.exe
+C:\projetos UC\relogio_digital\relogio_digital\obj\Debug\relogio_digital.pdb

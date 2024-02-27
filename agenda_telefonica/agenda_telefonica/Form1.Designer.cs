@@ -36,15 +36,10 @@
             this.TXT_TELEFONE = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.BTN_SALVAR = new System.Windows.Forms.Button();
-            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.SuspendLayout();
             // 
             // listView
             // 
-            this.listView.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.columnHeader1,
-            this.columnHeader2});
             this.listView.GridLines = true;
             this.listView.HideSelection = false;
             this.listView.Location = new System.Drawing.Point(11, 197);
@@ -59,9 +54,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(8, 126);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(39, 13);
+            this.label1.Size = new System.Drawing.Size(68, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "NOME";
+            this.label1.Text = "NOME ou ID";
             // 
             // label2
             // 
@@ -116,15 +111,6 @@
             this.BTN_SALVAR.UseVisualStyleBackColor = true;
             this.BTN_SALVAR.Click += new System.EventHandler(this.BTN_SALVAR_Click);
             // 
-            // columnHeader1
-            // 
-            this.columnHeader1.Text = "NOME";
-            // 
-            // columnHeader2
-            // 
-            this.columnHeader2.Text = "NUMERO";
-            this.columnHeader2.Width = 120;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -142,6 +128,7 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "AGENDINHA_EHEH";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -157,8 +144,6 @@
         private System.Windows.Forms.TextBox TXT_TELEFONE;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button BTN_SALVAR;
-        private System.Windows.Forms.ColumnHeader columnHeader1;
-        private System.Windows.Forms.ColumnHeader columnHeader2;
     }
 }
 

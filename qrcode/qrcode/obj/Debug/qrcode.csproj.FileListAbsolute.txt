@@ -10,3 +10,15 @@ C:\projetos UC\qrcode\qrcode\obj\Debug\qrcode.exe
 C:\projetos UC\qrcode\qrcode\obj\Debug\qrcode.pdb
 C:\projetos UC\qrcode\qrcode\bin\Debug\QRCoder.dll
 C:\projetos UC\qrcode\qrcode\obj\Debug\qrcode.csproj.CopyComplete
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\bin\Debug\qrcode.exe.config
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\bin\Debug\qrcode.exe
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\bin\Debug\qrcode.pdb
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\bin\Debug\QRCoder.dll
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\obj\Debug\qrcode.csproj.AssemblyReference.cache
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\obj\Debug\qrcode.Form1.resources
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\obj\Debug\qrcode.Properties.Resources.resources
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\obj\Debug\qrcode.csproj.GenerateResource.cache
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\obj\Debug\qrcode.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\obj\Debug\qrcode.csproj.CopyComplete
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\obj\Debug\qrcode.exe
+C:\Users\guilherme.lmaia\source\repos\Atividade-final-c-\qrcode\qrcode\obj\Debug\qrcode.pdb

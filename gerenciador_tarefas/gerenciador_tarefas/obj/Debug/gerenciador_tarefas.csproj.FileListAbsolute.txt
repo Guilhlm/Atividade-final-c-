@@ -1,0 +1,10 @@
+C:\projetos UC\gerenciador_tarefas\gerenciador_tarefas\bin\Debug\gerenciador_tarefas.exe.config
+C:\projetos UC\gerenciador_tarefas\gerenciador_tarefas\bin\Debug\gerenciador_tarefas.exe
+C:\projetos UC\gerenciador_tarefas\gerenciador_tarefas\bin\Debug\gerenciador_tarefas.pdb
+C:\projetos UC\gerenciador_tarefas\gerenciador_tarefas\obj\Debug\gerenciador_tarefas.csproj.AssemblyReference.cache
+C:\projetos UC\gerenciador_tarefas\gerenciador_tarefas\obj\Debug\gerenciador_tarefas.Form1.resources
+C:\projetos UC\gerenciador_tarefas\gerenciador_tarefas\obj\Debug\gerenciador_tarefas.Properties.Resources.resources
+C:\projetos UC\gerenciador_tarefas\gerenciador_tarefas\obj\Debug\gerenciador_tarefas.csproj.GenerateResource.cache
+C:\projetos UC\gerenciador_tarefas\gerenciador_tarefas\obj\Debug\gerenciador_tarefas.csproj.CoreCompileInputs.cache
+C:\projetos UC\gerenciador_tarefas\gerenciador_tarefas\obj\Debug\gerenciador_tarefas.exe
+C:\projetos UC\gerenciador_tarefas\gerenciador_tarefas\obj\Debug\gerenciador_tarefas.pdb

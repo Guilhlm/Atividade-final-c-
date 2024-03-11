@@ -13,12 +13,7 @@ O projeto tem como objetivo de representar os conhecimentos adiquiridos durante 
   - [ ] Exibir e pedir o pais para o usuario   
 - [x] Apresentação
 
-`eu tenho um codigo`
 
-```
-um monte de codigo
-uauauu
-```
 
 
 
